@@ -15,3 +15,9 @@ this is digital art files, not coding files
 ### Sketch
 
 <img src="./sketch.png" />
+
+---
+
+### Base Color
+
+<img src="./base-color.png">
