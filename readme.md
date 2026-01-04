@@ -21,3 +21,13 @@ this is digital art files, not coding files
 ### Base Color
 
 <img src="./base-color.png">
+
+### Final Result
+
+<img src="./final.png">
+
+---
+
+Credit :
+
+- pose reference - [Alyss https://www.pixiv.net/en/artworks/138972990](https://www.pixiv.net/en/artworks/138972990)
